@@ -1,4 +1,4 @@
-# Atividade - Lista 1 filas.
+# Atividade - Lista 2 filas.
 
 Resolução dos exercícios propostos para o conteúdo de filas dinâmicas em java.
 
